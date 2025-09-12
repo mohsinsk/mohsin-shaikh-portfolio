@@ -8,7 +8,7 @@ export default function Contact() {
         <h1 className="text-4xl text-center font-semibold tracking-tight text-balance dark:text-white text-indigo-400 sm:text-5xl">
           Let's Contact
         </h1>
-        <p className="mt-2 text-lg/8 text-gray-400 sm:text-center">
+        <p className="mt-2 text-lg/8 text-gray-500 sm:text-center">
           I’m always open to discussing new projects, creative ideas, or
           opportunities to be part of your vision. Feel free to reach out and
           let’s build something amazing together.

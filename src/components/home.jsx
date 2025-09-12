@@ -25,7 +25,7 @@ export default function Home() {
           <h2 className="text-2xl md:text-3xl font-semibold text-dark dark:text-white">
             <Typewriter
               options={{
-                strings: "Hi, I am Sheikh Mohsin.",
+                strings: "Hi, I am Mohsin Shaikh.",
                 autoStart: true,
                 loop: false,
                 delay: 75,
